@@ -1,7 +1,7 @@
 # scale-okok
 BLE hci script for reading data packet from floor scales OKOK
 
-###Пример вывода в файл:###
+###Пример вывода в файл:###  
 [2026-01-10 06:52:01] ВЕС: 82.25 кг | ТЕМП: 23°C | БАТ: 96.0% | RSSI: -88 dBm
 Сырые данные: 043e1d02010300b4c27d5d56b41110ffc048202117700a0125b4565d7dc2b4a8
 
