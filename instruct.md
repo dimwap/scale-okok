@@ -13,7 +13,7 @@ https://play.google.com/store/apps/details?id=com.chipsea.btcontrol.en
 ## 2. Подготовка системных драйверов (Zadig)
 Стандартные драйверы "CSR Harmony" или "Generic Bluetooth Radio" блокируют доступ Python к устройству. Необходимо заменить их на универсальный драйвер **WinUSB**.
 
-1. Скачайте утилиту **Zadig** с официального сайта: [zadig.akeo.ie](zadig.akeo.ie).
+1. Скачайте утилиту **Zadig** с официального сайта: [zadig.akeo.ie] (zadig.akeo.ie).
 2. Запустите Zadig.
 3. Перейдите в меню `Options` -> `List All Devices`.
 4. В выпадающем списке выберите **CSR8510 A10** (или устройство с ID `0A12 0001`).
@@ -23,7 +23,7 @@ https://play.google.com/store/apps/details?id=com.chipsea.btcontrol.en
 ## 3. Установка библиотеки libusb-1.0.dll
 Библиотека `PyUSB` является лишь оболочкой, для её работы в системе должен быть физический файл бэкенда.
 
-1. Скачайте архив **libusb** с GitHub: [libusb/releases](github.com).
+1. Скачайте архив **libusb** с GitHub: [https://github.com/libusb/libusb/releases] 
 2. Распакуйте файл `libusb-1.0.dll` из папки `VS2019/MS64/dll/` (для 64-битного Python).
 3. **Важно:** Поместите этот файл в папку `C:\Windows\System32` или в корневую папку вашего Python-скрипта.
 но тогда, возможно, придется явно указывать путь к DLL (замените на ваш путь)
