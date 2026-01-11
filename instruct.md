@@ -1,5 +1,6 @@
 #OKOK International - android application for Chinese scale
-https://play.google.com/store/apps/details?id=com.chipsea.btcontrol.en
+https://play.google.com/store/apps/details?id=com.chipsea.btcontrol.en  
+Приложение размером 150мб читает с весов только вес в килограммах, за 30 секунд. Остальные величины: BMI, жир, и т.д. оно сочиняет само. Весы не измеряют сопротивление босых ног, таких данных в пакете нет. Блестящие контакты это имитация приклеенная к стеклянной основе.
 
 # Инструкция по настройке системы чтения BLE-весов на Python (Windows 10/11)
 Данное руководство описывает процесс подготовки компьютера для прямой работы с Bluetooth-донглом на чипе **CSR8510 A10**, 
