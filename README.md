@@ -20,3 +20,5 @@ BLE hci script for reading data packet from floor scales OKOK
 > Изменения температуры на экране никак не отражаются на данных в пакете.  
 > После замены батареек, в пакете меняется и байт перед весом, и картинка на экране весов.  
 > Последний байт меняется, но вместо RSSI показывает погоду на Марсе.  
+
+Anolog on Github: https://github.com/rrooggiieerr/homeassistant-okokscale
