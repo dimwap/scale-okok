@@ -1,8 +1,8 @@
-# Python for OKOK Scales
+# Python for OKOK Scales  
 
-![Python][python-shield] [![HACS][hacs-shield]][hacs] 
-Analogs: [![Analog][Analogue-shield]][Analogue-on-Github]
-Instruct: [![Instruct][instruct]][https://github.com/dimwap/scale-okok/instruct.md]
+![Python][python-shield] [![HACS][hacs-shield]][hacs]   
+Analogs: [![Analog][Analogue-shield]][Analogue-on-Github]  
+Instruct: [![Instruct][instruct]][https://github.com/dimwap/scale-okok/instruct.md]  
 
 BLE hci script for reading data packet from floor scales OKOK
 
