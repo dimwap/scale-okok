@@ -1,4 +1,8 @@
-# scale-okok
+# Puthon for OKOK Scales
+
+![Python][python-shield] [![HACS][hacs-shield]][hacs]  
+https://github.com/dimwap/scale-okok/instruct.md
+
 BLE hci script for reading data packet from floor scales OKOK
 
 ### Пример вывода в файл:  
