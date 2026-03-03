@@ -1,7 +1,7 @@
 # Python for OKOK Scales  
 
-![Python][python-shield] [![HACS][hacs-shield]][hacs]   
-Analogs: [![Analog][Analogue-shield]][Analogue-on-Github]  
+[![Python][python-shield]][pyth] [![HACS][hacs-shield]][hacs]   
+Analogues: [![Analog][Analogue-shield]][Analogue-on-Github]  
 
 BLE hci script for reading data packet from floor scales OKOK
 
@@ -31,5 +31,6 @@ Link: [![INSTR][instruct-shield]][inst]
 [hacs]: https://hacs.xyz/
 [hacs-shield]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge
 [python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[pyth]: https://www.python.org/downloads/
 [instruct-shield]: https://img.shields.io/badge/just%20the%20instruct-8A2BE2
 [inst]: https://github.com/dimwap/scale-okok/blob/main/instruct.md
