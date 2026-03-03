@@ -24,11 +24,12 @@ BLE hci script for reading data packet from floor scales OKOK
 > Изменения температуры на экране никак не отражаются на данных в пакете.  
 > После замены батареек, в пакете меняется и байт перед весом, и картинка на экране весов.  
 > Последний байт меняется, но вместо RSSI показывает погоду на Марсе.  
-Instruct: [![Instruct][instruct]][(https://github.com/dimwap/scale-okok/blob/main/instruct.md)]  
+Link: [![INSTR][instruct-shield]][inst]  
 
 [Analogue-on-Github]: https://github.com/rrooggiieerr/homeassistant-okokscale
 [Analogue-shield]: https://img.shields.io/badge/github-repo-blue?logo=github
 [hacs]: https://hacs.xyz/
 [hacs-shield]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge
 [python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[instruct]: https://img.shields.io/badge/just%20the%20instruct-8A2BE2
+[instruct-shield]: https://img.shields.io/badge/just%20the%20instruct-8A2BE2
+[inst]: https://github.com/dimwap/scale-okok/blob/main/instruct.md
