@@ -1,6 +1,6 @@
-# Puthon for OKOK Scales
+# Python for OKOK Scales
 
-![Python][python-shield] [![HACS][hacs-shield]][hacs]  
+![Python][python-shield] [![HACS][hacs-shield]][hacs]  [![Analog][Analogue-on-Github]]
 https://github.com/dimwap/scale-okok/instruct.md
 
 BLE hci script for reading data packet from floor scales OKOK
@@ -25,4 +25,6 @@ BLE hci script for reading data packet from floor scales OKOK
 > После замены батареек, в пакете меняется и байт перед весом, и картинка на экране весов.  
 > Последний байт меняется, но вместо RSSI показывает погоду на Марсе.  
 
-Anolog on Github: https://github.com/rrooggiieerr/homeassistant-okokscale
+[Analogue-on-Github]: https://github.com/rrooggiieerr/homeassistant-okokscale
+[hacs]: https://hacs.xyz/
+[python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
