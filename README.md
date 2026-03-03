@@ -2,7 +2,6 @@
 
 ![Python][python-shield] [![HACS][hacs-shield]][hacs]   
 Analogs: [![Analog][Analogue-shield]][Analogue-on-Github]  
-Instruct: [![Instruct][instruct]][https://github.com/dimwap/scale-okok/instruct.md]  
 
 BLE hci script for reading data packet from floor scales OKOK
 
@@ -25,6 +24,7 @@ BLE hci script for reading data packet from floor scales OKOK
 > Изменения температуры на экране никак не отражаются на данных в пакете.  
 > После замены батареек, в пакете меняется и байт перед весом, и картинка на экране весов.  
 > Последний байт меняется, но вместо RSSI показывает погоду на Марсе.  
+Instruct: [![Instruct][instruct]][(https://github.com/dimwap/scale-okok/blob/main/instruct.md)]  
 
 [Analogue-on-Github]: https://github.com/rrooggiieerr/homeassistant-okokscale
 [Analogue-shield]: https://img.shields.io/badge/github-repo-blue?logo=github
